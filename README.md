@@ -13,8 +13,10 @@
 
 
 <p align="center">Hi, I'm <strong>Ramyashri</strong>, budding engineer.</p>
-
-![Visitor Count](https://profile-counter.glitch.me/{Ramyashrihebbar}/count.svg)
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Ramyashrihebbar/count.svg" />
+</p>
  
 
 <p align="center">
