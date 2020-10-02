@@ -14,10 +14,10 @@
 
 <p align="center">Hi, I'm <strong>Ramyashri</strong>, budding engineer.</p>
  <p align="center"> 
-  Visitor count<br>
+  Visitors count<br>
   <img src="https://profile-counter.glitch.me/Ramyashrihebbar/count.svg" />
 </p>
- 
+ <img align="left" alt="Ramya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ramyashrihebbar&show_icons=true&hide_border=true" />
 
 <p align="center">
   
